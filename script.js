@@ -9,10 +9,10 @@ menuIcon.onclick = () => {
 };
 
 // *=============================== github calender ==================================
-    GitHubCalendar(".calendar", "shivansh84ya");
+    GitHubCalendar(".calendar", "rahul7782");
 
     // or enable responsive functionality:
-    GitHubCalendar(".calendar", "shivansh84ya", { responsive: true });
+    GitHubCalendar(".calendar", "ahul7782", { responsive: true });
 
 // *=============================== resume open in new tab ==================================
 
@@ -22,7 +22,7 @@ menuIcon.onclick = () => {
 
     function NewTab() {
       window.open(
-        "https://drive.google.com/file/d/1tUU5v7UFOypToKy99fd42YZxI43Dojxj/view?usp=sharing"
+        "https://drive.google.com/file/d/1_NeIKNaqp7NB-FWfuFBIB0ciCCSxm26E/view?usp=drivesdk"
       );
     }
 
